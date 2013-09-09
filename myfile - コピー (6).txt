@@ -1,4 +1,12 @@
 サルでもわかるGitコマンド
 add 変更をインデックスに登録する
+
 
+
+<<<<<<< HEAD
 2013/09/09 17:40 AilylabPC
+=======
+
+2013/09/09 17:30 kamijimaPC
+
+>>>>>>> cf2d3f74abca4497bafff67ca7adca2332cdb86a
